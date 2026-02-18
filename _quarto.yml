@@ -3,19 +3,23 @@ project:
 
 website:
   title: "Fankai Dai"
+  # 开启平滑滚动，点击 About/Research 时页面会丝滑滑动
+  page-navigation: true 
   navbar:
     left:
       - text: About
-        href: "#about"
+        href: index.html#about
       - text: Research
-        href: "#research"
+        href: index.html#research
       - text: CV
-        href: "#cv"
+        href: index.html#cv
 
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: false
-
-
-
+    # 这一行非常重要！防止 Quarto 给你的双栏布局加侧边栏干扰
+    page-layout: full 
+    # 配合顶栏跳转
+    anchor-sections: true
