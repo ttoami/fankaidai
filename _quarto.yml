@@ -5,12 +5,12 @@ website:
   title: "Fankai Dai"
   navbar:
     left:
-      - href: index.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: cv.qmd
-        text: CV
+      - text: About
+        href: "#about"
+      - text: Research
+        href: "#research"
+      - text: CV
+        href: "#cv"
 
 format:
   html:

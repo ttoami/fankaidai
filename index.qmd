@@ -1,7 +1,52 @@
 ---
 title: "Fankai Dai"
+page-layout: full
 ---
+
+::: columns
+::: {.column width="33%"}
+![](images/avatar.jpg){width="75%" style="border-radius: 999px;"}
+
+<br>
+
+**Fankai Dai**\
+PhD student, Journalism\
+The University of Hong Kong
+
+<br>
+
+**Contact**\
+Email: [fankaidai\@connect.hku.hk](mailto:fankaidai@connect.hku.hk)\
+Address: Room 107, Eliot Hall, The University of Hong Kong, Pok Fu Lam, Hong Kong
+
+<br>
+
+[**Download CV (PDF)**](cv.pdf){.btn .btn-primary}
+:::
+
+::: {.column width="67%"}
+## About {#about}
 
 My name is Fankai Dai. I am a PhD student in Journalism at The University of Hong Kong.
 
-Previously, I obtained my B.A. degree from college of media and international culture at Zhejiang University and M.A. degree from school of Journalism and Communication at Tsinghua University. I also worked as a journalism intern at Caixin media, the paper.
+Previously, I received my B.A. from the College of Media and International Culture at Zhejiang University and my M.A. from the School of Journalism and Communication at Tsinghua University. I also worked as a journalism intern at Caixin Media and The Paper.
+
+------------------------------------------------------------------------
+
+## Research {#research}
+
+### Refereed journal publications
+
+**In Chinese**
+
+-   Li, H., Liu, Y., **Dai, F.** (2025). *Where's the Covid-19 testing stations now? Liminal Memoryscape, and Covid-19 Heritage in China's Urban Space.* **Communication & Society** (TSSCI), 75, 1--36.
+
+-   Zhou, R., Wang, W., **Dai, F.**, & Zhou, Z. (2021). *Learning to make news: How Chinese college students and faculty covered the Covid-19 pandemic.* **Shanghai Journalism Review** (CSSCI), 11, 53--65.
+
+------------------------------------------------------------------------
+
+## CV {#cv}
+
+You can download my CV here: [cv.pdf](cv.pdf).
+:::
+:::
