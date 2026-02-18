@@ -16,8 +16,7 @@ PhD Student
 
 The University of Hong Kong 
 
-**Contact**
-[fankaidai@connect.hku.hk](mailto:fankaidai@connect.hku.hk)
+[Email](mailto:fankaidai@connect.hku.hk)
 
 <br>
 
@@ -26,11 +25,11 @@ The University of Hong Kong
 ::: {.home-right}
 ## About {#about}
 
-My name is Fankai Dai. I am a Ph.D. student in the School of Future Media at the University of Hong Kong, supervised by [Prof. King-wa Fu](https://sites.google.com/site/fukingwa/) and [Prof. Bin Chen](https://binchen19.github.io).
+I am a Ph.D. student in the [School of Future Media](https://hkums.hku.hk) at the [University of Hong Kong](https://hku.hk), supervised by [Prof. King-wa Fu](https://sites.google.com/site/fukingwa/) and [Prof. Bin Chen](https://binchen19.github.io).
 
-My research interests include digital journalism, political communication, and platform governance.
+My research focuses on digital journalism, political communication, and platform governance.
 
-Previously, I received a B.A. from Zhejiang University and an M.A. from Tsinghua University. I also worked as a journalism intern at *Caixin Media* and *The Paper*.
+Previously, I received an M.A. from Tsinghua University (2025) and a B.A. from Zhejiang University (2022). I also worked as a journalism intern at *Caixin Media* and *The Paper*.
 
 
 ## Research {#research}
@@ -39,7 +38,7 @@ Previously, I received a B.A. from Zhejiang University and an M.A. from Tsinghua
 
 **In Chinese**
 
-- Li, H., Liu, Y., **Dai, F.** (2026). Where’s the Covid-19 testing stations now? Liminal Memoryscape, and Covid-19 Heritage in China’s Urban Space. *Communication & Society* (TSSCI), 75, 1–36. [Publisher's Version](paper/Where Did the COVID-19 Testing Booths Go.pdf)
+- Li, H., Liu, Y., **Dai, F.** (2026). Where’s the Covid-19 testing stations now? Liminal Memoryscape, and Covid-19 Heritage in China’s Urban Space. *Communication & Society* (TSSCI), 75, 1–36. [\[Publisher's Version\]](paper/Where Did the COVID-19 Testing Booths Go.pdf)
 
 - Zhou, R., Wang, W., **Dai, F.**, & Zhou, Z. (2021). Learning to make news: How Chinese college students and faculty covered the Covid-19 pandemic. *Shanghai Journalism Review* (CSSCI), 11, 53–65.
 
@@ -47,6 +46,13 @@ Previously, I received a B.A. from Zhejiang University and an M.A. from Tsinghua
 ## CV {#cv}
 
 [**Download My CV here**](cv.pdf)
+
+*Last update: February 18, 2026*
+
+## Contact {#contact}
+
+**Email**: fankaidai@connect.hku.hk
+**Address**: Room 107, Eliot Hall, The University of Hong Kong, Pok Fu Lam, Hong Kong
 
 :::
 
