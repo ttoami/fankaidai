@@ -3,35 +3,40 @@ title: "Fankai Dai"
 page-layout: full
 ---
 
-::: columns
-::: {.column width="33%"}
-![](images/avatar.jpg){width="75%" style="border-radius: 999px;"}
+::: {.columns}
+
+::: {.column width="30%"}
+
+<div class="sidebar">
+
+![](images/avatar.jpg){width="80%" style="border-radius: 999px;"}
 
 <br>
 
-**Fankai Dai**\
-PhD student, Journalism\
-The University of Hong Kong
+**Fankai Dai**  
+PhD student, Journalism  
+The University of Hong Kong  
 
 <br>
 
-**Contact**\
-Email: [fankaidai\@connect.hku.hk](mailto:fankaidai@connect.hku.hk)\
-Address: Room 107, Eliot Hall, The University of Hong Kong, Pok Fu Lam, Hong Kong
+**Contact**  
+Email: [fankaidai@connect.hku.hk](mailto:fankaidai@connect.hku.hk)  
 
-<br>
 
-[**Download CV (PDF)**](cv.pdf){.btn .btn-primary}
+</div>
+
 :::
 
-::: {.column width="67%"}
+::: {.column width="70%"}
+
 ## About {#about}
 
-My name is Fankai Dai. I am a PhD student in Journalism at The University of Hong Kong.
+Welcome to my website! My name is Fankai Dai. I am currently a Ph.D. student in the School of Future Media at the University of Hong Kong, supervised by [Prof. King-wa Fu](https://sites.google.com/site/fukingwa/) and [Prof. Bin Chen](https://binchen19.github.io).
 
-Previously, I received my B.A. from the College of Media and International Culture at Zhejiang University and my M.A. from the School of Journalism and Communication at Tsinghua University. I also worked as a journalism intern at Caixin Media and The Paper.
+My research interests include digital journalism, political communication, and platform governance.
 
-------------------------------------------------------------------------
+Previously, I received my B.A. from the College of Media and International Culture at Zhejiang University and my M.A. from the School of Journalism and Communication at Tsinghua University.
+
 
 ## Research {#research}
 
@@ -39,14 +44,16 @@ Previously, I received my B.A. from the College of Media and International Cultu
 
 **In Chinese**
 
--   Li, H., Liu, Y., **Dai, F.** (2025). *Where's the Covid-19 testing stations now? Liminal Memoryscape, and Covid-19 Heritage in China's Urban Space.* **Communication & Society** (TSSCI), 75, 1--36.
+- Li, H., Liu, Y., **Dai, F.** (2026). Where’s the Covid-19 testing stations now? Liminal Memoryscape, and Covid-19 Heritage in China’s Urban Space. *Communication & Society* (TSSCI), 75, 1–36.
 
--   Zhou, R., Wang, W., **Dai, F.**, & Zhou, Z. (2021). *Learning to make news: How Chinese college students and faculty covered the Covid-19 pandemic.* **Shanghai Journalism Review** (CSSCI), 11, 53--65.
+- Zhou, R., Wang, W., **Dai, F.**, & Zhou, Z. (2021). Learning to make news: How Chinese college students and faculty covered the Covid-19 pandemic. *Shanghai Journalism Review* (CSSCI), 11, 53–65.
 
-------------------------------------------------------------------------
+## CV
 
-## CV {#cv}
+- [Download my CV here](cv.pdf)
 
-You can download my CV here: [cv.pdf](cv.pdf).
+
+
 :::
+
 :::

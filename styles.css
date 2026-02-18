@@ -1,1 +1,21 @@
-/* css styles */
+/* 桌面端：左侧固定 */
+@media (min-width: 769px) {
+  .sidebar {
+    position: sticky;
+    top: 100px;
+  }
+}
+
+/* 移动端：取消固定，自动堆叠 */
+@media (max-width: 768px) {
+  .sidebar {
+    position: static;
+    top: auto;
+    margin-bottom: 1.5rem;
+  }
+
+  /* 让头像在手机上别太大 */
+  .sidebar img {
+    width: 55% !important;
+  }
+}
