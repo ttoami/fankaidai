@@ -11,6 +11,8 @@ website:
         href: index.html#about
       - text: Research
         href: index.html#research
+      - text: Contact
+        href: index.html#contact
         
 format:
   html:
