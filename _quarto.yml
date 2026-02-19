@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Fankai Dai"
-  # 开启平滑滚动，点击 About/Research 时页面会丝滑滑动
+  search: false
   page-navigation: true 
   navbar:
     left:
@@ -11,9 +11,7 @@ website:
         href: index.html#about
       - text: Research
         href: index.html#research
-      - text: CV
-        href: index.html#cv
-
+        
 format:
   html:
     theme: cosmo

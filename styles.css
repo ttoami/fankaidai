@@ -62,3 +62,13 @@
   padding: 8px 16px;
   border-radius: 5px;
 }
+
+a {
+  color: #003E7E;   /* ZJU Blue */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #002C5C;   /* 更深一点 */
+  text-decoration: underline;
+}
