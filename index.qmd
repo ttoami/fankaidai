@@ -13,7 +13,8 @@ page-layout: full
 Ph.D. Student<br>
 The University of Hong Kong
 
-[Email](mailto:fankaidai@connect.hku.hk)<br>
+[Email](mailto:fankaidai@connect.hku.hk)
+
 [CV](cv.pdf)
 
 <br>
@@ -37,6 +38,20 @@ Previously, I received an M.A. from Tsinghua University (2025) and a B.A. from Z
 -   Li, Hongtao, Liu, Yusi, **Dai, Fankai**. (2026). Where's the Covid-19 testing stations now? Liminal Memoryscape, and Covid-19 Heritage in China's Urban Space. *Communication & Society* (TSSCI), 75, 1--36. [\[Publisher's Version\]](paper/Where%20Did%20the%20COVID-19%20Testing%20Booths%20Go.pdf)
 
 -   Zhou, Ruiming, Wang, Weijia, **Dai, Fankai**, & Zhou, Ziluo. (2021). Learning to make news: How Chinese college students and faculty covered the Covid-19 pandemic. *Shanghai Journalism Review* (CSSCI), 11, 53--65.
+
+### Selected Conference Presentations
+
+-   **Dai, Fankai**. (2025). Amusing ourselves or deliberating for justice? The impact of entertainment content and gamification on the quality of discussion in crowdsourced content moderation. Paper presented at the 75th Annual Conference of the International Communication Association (ICA), Denver, Colorado, USA.
+
+-   Chen, Junyi, **Dai, Fankai**, & Mou, Yi. (2025). AI Fact-checking or Rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility. Paper presented at the 75th Annual Conference of the International Communication Association (ICA), Denver, Colorado, USA.
+
+-   Wang, Weijia, **Dai, Fankai**, Xing, Jianhong, & Seong Yun, Du. (2024). Double Generalized Hate
+Speech: The Boundary of Hate Speech in China's Crowdsourcing Governance
+Practices. Paper presented at the International Association for Media and
+Communication Research (IAMCR) Annual Conference, Christchurch, New
+Zealand.
+
+-   **Dai, Fankai**, Chen, Junyi. (2024). Fact-checking is fact-checking? A comparative analysis of four Chinese fact-checking organizations. Paper presented at the 74th Annual Conference of the International Communication Association (ICA), Gold Coast, Australia.
 
 
 ## Contact {#contact}
